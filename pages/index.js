@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
 
       {/* Header */}
-      <header className="flex w-full p-5 justify-between text-small text-gray-700">
+      <header className="flex w-full p-5 justify-between text-base text-gray-700">
         {/* Left */}
         <div className="flex space-x-4 items-center">
           <p className="link">About</p>
